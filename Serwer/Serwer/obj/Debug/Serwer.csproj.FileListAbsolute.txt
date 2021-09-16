@@ -1,0 +1,28 @@
+C:\Users\Matthew\Desktop\Serwer\Serwer\Serwer\bin\Debug\Serwer.exe.config
+C:\Users\Matthew\Desktop\Serwer\Serwer\Serwer\bin\Debug\Serwer.exe
+C:\Users\Matthew\Desktop\Serwer\Serwer\Serwer\bin\Debug\Serwer.pdb
+C:\Users\Matthew\Desktop\Serwer\Serwer\Serwer\obj\Debug\Serwer.csprojResolveAssemblyReference.cache
+C:\Users\Matthew\Desktop\Serwer\Serwer\Serwer\obj\Debug\Serwer.csproj.CoreCompileInputs.cache
+C:\Users\Matthew\Desktop\Serwer\Serwer\Serwer\obj\Debug\Serwer.exe
+C:\Users\Matthew\Desktop\Serwer\Serwer\Serwer\obj\Debug\Serwer.pdb
+D:\NAUKA\APLIKACJE SERWEROWE - KOSZAŁKA\Projekt chat - Mateusz Marchewka\Serwer\Serwer\bin\Debug\Serwer.exe.config
+D:\NAUKA\APLIKACJE SERWEROWE - KOSZAŁKA\Projekt chat - Mateusz Marchewka\Serwer\Serwer\bin\Debug\Serwer.exe
+D:\NAUKA\APLIKACJE SERWEROWE - KOSZAŁKA\Projekt chat - Mateusz Marchewka\Serwer\Serwer\bin\Debug\Serwer.pdb
+D:\NAUKA\APLIKACJE SERWEROWE - KOSZAŁKA\Projekt chat - Mateusz Marchewka\Serwer\Serwer\obj\Debug\Serwer.csprojResolveAssemblyReference.cache
+D:\NAUKA\APLIKACJE SERWEROWE - KOSZAŁKA\Projekt chat - Mateusz Marchewka\Serwer\Serwer\obj\Debug\Serwer.csproj.CoreCompileInputs.cache
+D:\NAUKA\APLIKACJE SERWEROWE - KOSZAŁKA\Projekt chat - Mateusz Marchewka\Serwer\Serwer\obj\Debug\Serwer.exe
+D:\NAUKA\APLIKACJE SERWEROWE - KOSZAŁKA\Projekt chat - Mateusz Marchewka\Serwer\Serwer\obj\Debug\Serwer.pdb
+C:\Users\Piotr\Desktop\Projekt chat\Serwer\Serwer\bin\Debug\Serwer.exe.config
+C:\Users\Piotr\Desktop\Projekt chat\Serwer\Serwer\bin\Debug\Serwer.exe
+C:\Users\Piotr\Desktop\Projekt chat\Serwer\Serwer\bin\Debug\Serwer.pdb
+C:\Users\Piotr\Desktop\Projekt chat\Serwer\Serwer\obj\Debug\Serwer.csprojAssemblyReference.cache
+C:\Users\Piotr\Desktop\Projekt chat\Serwer\Serwer\obj\Debug\Serwer.csproj.CoreCompileInputs.cache
+C:\Users\Piotr\Desktop\Projekt chat\Serwer\Serwer\obj\Debug\Serwer.exe
+C:\Users\Piotr\Desktop\Projekt chat\Serwer\Serwer\obj\Debug\Serwer.pdb
+C:\Users\Piotr\OneDrive\Aplikacje\Koszała\Projekt chat\Serwer\Serwer\bin\Debug\Serwer.exe.config
+C:\Users\Piotr\OneDrive\Aplikacje\Koszała\Projekt chat\Serwer\Serwer\bin\Debug\Serwer.exe
+C:\Users\Piotr\OneDrive\Aplikacje\Koszała\Projekt chat\Serwer\Serwer\bin\Debug\Serwer.pdb
+C:\Users\Piotr\OneDrive\Aplikacje\Koszała\Projekt chat\Serwer\Serwer\obj\Debug\Serwer.csprojAssemblyReference.cache
+C:\Users\Piotr\OneDrive\Aplikacje\Koszała\Projekt chat\Serwer\Serwer\obj\Debug\Serwer.csproj.CoreCompileInputs.cache
+C:\Users\Piotr\OneDrive\Aplikacje\Koszała\Projekt chat\Serwer\Serwer\obj\Debug\Serwer.exe
+C:\Users\Piotr\OneDrive\Aplikacje\Koszała\Projekt chat\Serwer\Serwer\obj\Debug\Serwer.pdb

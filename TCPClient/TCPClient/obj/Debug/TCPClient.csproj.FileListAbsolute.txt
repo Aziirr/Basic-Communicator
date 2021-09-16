@@ -1,0 +1,64 @@
+C:\Users\Grzybowski Adam\source\repos\TCPClient\TCPClient\bin\Debug\TCPClient.exe.config
+C:\Users\Grzybowski Adam\source\repos\TCPClient\TCPClient\bin\Debug\TCPClient.exe
+C:\Users\Grzybowski Adam\source\repos\TCPClient\TCPClient\bin\Debug\TCPClient.pdb
+C:\Users\Grzybowski Adam\source\repos\TCPClient\TCPClient\obj\Debug\TCPClient.csprojResolveAssemblyReference.cache
+C:\Users\Grzybowski Adam\source\repos\TCPClient\TCPClient\obj\Debug\TCPClient.TCPClient.resources
+C:\Users\Grzybowski Adam\source\repos\TCPClient\TCPClient\obj\Debug\TCPClient.Properties.Resources.resources
+C:\Users\Grzybowski Adam\source\repos\TCPClient\TCPClient\obj\Debug\TCPClient.csproj.GenerateResource.Cache
+C:\Users\Grzybowski Adam\source\repos\TCPClient\TCPClient\obj\Debug\TCPClient.csproj.CoreCompileInputs.cache
+C:\Users\Grzybowski Adam\source\repos\TCPClient\TCPClient\obj\Debug\TCPClient.exe
+C:\Users\Grzybowski Adam\source\repos\TCPClient\TCPClient\obj\Debug\TCPClient.pdb
+C:\Users\Marchewka Mateusz\Desktop\TCPClient\TCPClient\bin\Debug\TCPClient.exe.config
+C:\Users\Marchewka Mateusz\Desktop\TCPClient\TCPClient\bin\Debug\TCPClient.exe
+C:\Users\Marchewka Mateusz\Desktop\TCPClient\TCPClient\bin\Debug\TCPClient.pdb
+C:\Users\Marchewka Mateusz\Desktop\TCPClient\TCPClient\obj\Debug\TCPClient.csprojResolveAssemblyReference.cache
+C:\Users\Marchewka Mateusz\Desktop\TCPClient\TCPClient\obj\Debug\TCPClient.TCPClient.resources
+C:\Users\Marchewka Mateusz\Desktop\TCPClient\TCPClient\obj\Debug\TCPClient.Properties.Resources.resources
+C:\Users\Marchewka Mateusz\Desktop\TCPClient\TCPClient\obj\Debug\TCPClient.csproj.GenerateResource.Cache
+C:\Users\Marchewka Mateusz\Desktop\TCPClient\TCPClient\obj\Debug\TCPClient.csproj.CoreCompileInputs.cache
+C:\Users\Marchewka Mateusz\Desktop\TCPClient\TCPClient\obj\Debug\TCPClient.exe
+C:\Users\Marchewka Mateusz\Desktop\TCPClient\TCPClient\obj\Debug\TCPClient.pdb
+C:\Users\Matthew\Desktop\TCPClient\TCPClient\bin\Debug\TCPClient.exe.config
+C:\Users\Matthew\Desktop\TCPClient\TCPClient\bin\Debug\TCPClient.exe
+C:\Users\Matthew\Desktop\TCPClient\TCPClient\bin\Debug\TCPClient.pdb
+C:\Users\Matthew\Desktop\TCPClient\TCPClient\obj\Debug\TCPClient.csprojResolveAssemblyReference.cache
+C:\Users\Matthew\Desktop\TCPClient\TCPClient\obj\Debug\TCPClient.TCPClient.resources
+C:\Users\Matthew\Desktop\TCPClient\TCPClient\obj\Debug\TCPClient.Properties.Resources.resources
+C:\Users\Matthew\Desktop\TCPClient\TCPClient\obj\Debug\TCPClient.csproj.GenerateResource.Cache
+C:\Users\Matthew\Desktop\TCPClient\TCPClient\obj\Debug\TCPClient.csproj.CoreCompileInputs.cache
+C:\Users\Matthew\Desktop\TCPClient\TCPClient\obj\Debug\TCPClient.exe
+C:\Users\Matthew\Desktop\TCPClient\TCPClient\obj\Debug\TCPClient.pdb
+C:\Users\Matthew\Desktop\TCPClient\TCPClient\obj\Debug\TCPClient.Form2.resources
+D:\NAUKA\APLIKACJE SERWEROWE - KOSZAŁKA\Projekt chat - Mateusz Marchewka\TCPClient\TCPClient\bin\Debug\TCPClient.exe.config
+D:\NAUKA\APLIKACJE SERWEROWE - KOSZAŁKA\Projekt chat - Mateusz Marchewka\TCPClient\TCPClient\bin\Debug\TCPClient.exe
+D:\NAUKA\APLIKACJE SERWEROWE - KOSZAŁKA\Projekt chat - Mateusz Marchewka\TCPClient\TCPClient\bin\Debug\TCPClient.pdb
+D:\NAUKA\APLIKACJE SERWEROWE - KOSZAŁKA\Projekt chat - Mateusz Marchewka\TCPClient\TCPClient\obj\Debug\TCPClient.csprojResolveAssemblyReference.cache
+D:\NAUKA\APLIKACJE SERWEROWE - KOSZAŁKA\Projekt chat - Mateusz Marchewka\TCPClient\TCPClient\obj\Debug\TCPClient.TCPClient.resources
+D:\NAUKA\APLIKACJE SERWEROWE - KOSZAŁKA\Projekt chat - Mateusz Marchewka\TCPClient\TCPClient\obj\Debug\TCPClient.Form2.resources
+D:\NAUKA\APLIKACJE SERWEROWE - KOSZAŁKA\Projekt chat - Mateusz Marchewka\TCPClient\TCPClient\obj\Debug\TCPClient.Properties.Resources.resources
+D:\NAUKA\APLIKACJE SERWEROWE - KOSZAŁKA\Projekt chat - Mateusz Marchewka\TCPClient\TCPClient\obj\Debug\TCPClient.csproj.GenerateResource.Cache
+D:\NAUKA\APLIKACJE SERWEROWE - KOSZAŁKA\Projekt chat - Mateusz Marchewka\TCPClient\TCPClient\obj\Debug\TCPClient.csproj.CoreCompileInputs.cache
+D:\NAUKA\APLIKACJE SERWEROWE - KOSZAŁKA\Projekt chat - Mateusz Marchewka\TCPClient\TCPClient\obj\Debug\TCPClient.exe
+D:\NAUKA\APLIKACJE SERWEROWE - KOSZAŁKA\Projekt chat - Mateusz Marchewka\TCPClient\TCPClient\obj\Debug\TCPClient.pdb
+C:\Users\Piotr\Desktop\Projekt chat\TCPClient\TCPClient\bin\Debug\TCPClient.exe.config
+C:\Users\Piotr\Desktop\Projekt chat\TCPClient\TCPClient\bin\Debug\TCPClient.exe
+C:\Users\Piotr\Desktop\Projekt chat\TCPClient\TCPClient\bin\Debug\TCPClient.pdb
+C:\Users\Piotr\Desktop\Projekt chat\TCPClient\TCPClient\obj\Debug\TCPClient.csprojAssemblyReference.cache
+C:\Users\Piotr\Desktop\Projekt chat\TCPClient\TCPClient\obj\Debug\TCPClient.TCPClient.resources
+C:\Users\Piotr\Desktop\Projekt chat\TCPClient\TCPClient\obj\Debug\TCPClient.Form2.resources
+C:\Users\Piotr\Desktop\Projekt chat\TCPClient\TCPClient\obj\Debug\TCPClient.Properties.Resources.resources
+C:\Users\Piotr\Desktop\Projekt chat\TCPClient\TCPClient\obj\Debug\TCPClient.csproj.GenerateResource.cache
+C:\Users\Piotr\Desktop\Projekt chat\TCPClient\TCPClient\obj\Debug\TCPClient.csproj.CoreCompileInputs.cache
+C:\Users\Piotr\Desktop\Projekt chat\TCPClient\TCPClient\obj\Debug\TCPClient.exe
+C:\Users\Piotr\Desktop\Projekt chat\TCPClient\TCPClient\obj\Debug\TCPClient.pdb
+C:\Users\Piotr\OneDrive\Aplikacje\Koszała\Projekt chat\TCPClient\TCPClient\bin\Debug\TCPClient.exe.config
+C:\Users\Piotr\OneDrive\Aplikacje\Koszała\Projekt chat\TCPClient\TCPClient\bin\Debug\TCPClient.exe
+C:\Users\Piotr\OneDrive\Aplikacje\Koszała\Projekt chat\TCPClient\TCPClient\bin\Debug\TCPClient.pdb
+C:\Users\Piotr\OneDrive\Aplikacje\Koszała\Projekt chat\TCPClient\TCPClient\obj\Debug\TCPClient.csprojAssemblyReference.cache
+C:\Users\Piotr\OneDrive\Aplikacje\Koszała\Projekt chat\TCPClient\TCPClient\obj\Debug\TCPClient.TCPClient.resources
+C:\Users\Piotr\OneDrive\Aplikacje\Koszała\Projekt chat\TCPClient\TCPClient\obj\Debug\TCPClient.Form2.resources
+C:\Users\Piotr\OneDrive\Aplikacje\Koszała\Projekt chat\TCPClient\TCPClient\obj\Debug\TCPClient.Properties.Resources.resources
+C:\Users\Piotr\OneDrive\Aplikacje\Koszała\Projekt chat\TCPClient\TCPClient\obj\Debug\TCPClient.csproj.GenerateResource.cache
+C:\Users\Piotr\OneDrive\Aplikacje\Koszała\Projekt chat\TCPClient\TCPClient\obj\Debug\TCPClient.csproj.CoreCompileInputs.cache
+C:\Users\Piotr\OneDrive\Aplikacje\Koszała\Projekt chat\TCPClient\TCPClient\obj\Debug\TCPClient.exe
+C:\Users\Piotr\OneDrive\Aplikacje\Koszała\Projekt chat\TCPClient\TCPClient\obj\Debug\TCPClient.pdb
